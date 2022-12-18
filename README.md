@@ -19,6 +19,7 @@ You can browse brands and their categories. Also, you can browse product which b
 * SwiftUI framework
 * MVVM pattern
 * JSON
+* Targer iOS 13.2 or higher
 
 ## Illustrations
 
